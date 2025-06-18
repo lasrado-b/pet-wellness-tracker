@@ -16,11 +16,11 @@ A personal data-tracking project to monitor Mendes' weight loss and activity usi
 
 ---
 
-## Live Chart Example
+## Live Chart
 
 ![Weight Chart](charts/mendes_chart.png)
 
-> *Automatically updated via Apps Script (in progress).*
+> *Automatically updated via Apps Script.*
 
 ---
 
