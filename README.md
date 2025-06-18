@@ -12,7 +12,7 @@ A personal data-tracking project to monitor Mendes' weight loss and activity usi
   - Walking duration (AM/PM)
   - Caloric goals
   - Target progress
-- **Tools Used:** Google Sheets · GitHub · Google Apps Script (coming soon)
+- **Tools Used:** Google Sheets · GitHub · Google Apps Script
 
 ---
 
