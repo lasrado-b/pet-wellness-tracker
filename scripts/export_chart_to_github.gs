@@ -1,4 +1,4 @@
-const GITHUB_TOKEN = 'my-github-token';
+const GITHUB_TOKEN = ''; // Token removed for security
 const REPO_OWNER = 'lasrado-b';
 const REPO_NAME = 'pet-wellness-tracker';
 const FILE_PATH = 'charts/mendes_chart.png';
