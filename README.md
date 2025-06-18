@@ -24,7 +24,7 @@ A personal data-tracking project to monitor Mendes' weight loss and activity usi
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 pet-wellness-tracker/
