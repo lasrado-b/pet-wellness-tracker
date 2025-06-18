@@ -16,11 +16,11 @@ A personal data-tracking project to monitor Mendes' weight loss and activity usi
 
 ---
 
-## Live Chart
+## Live Chart Example
 
-![Weight Chart](charts/mendes_chart.png)
+![Mendes Weight Progress](https://raw.githubusercontent.com/lasrado-b/pet-wellness-tracker/main/charts/mendes_chart.png)
 
-> *Automatically updated via Apps Script.*
+> *This chart is automatically updated weekly via Google Apps Script.*
 
 ---
 
