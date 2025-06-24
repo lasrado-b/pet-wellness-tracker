@@ -20,6 +20,8 @@ A personal data-tracking project to monitor Mendes' weight loss and activity usi
 
 ![Mendes Weight Progress](https://raw.githubusercontent.com/lasrado-b/pet-wellness-tracker/main/charts/mendes_chart.png)
 
+
+
 > *This chart is automatically updated weekly via Google Apps Script.*
 
 ---
@@ -30,6 +32,7 @@ A personal data-tracking project to monitor Mendes' weight loss and activity usi
 pet-wellness-tracker/
 ├── charts/                 # Auto-generated chart image of weight progress
 │   └── mendes_chart.png
+|   └── mendes_walk_weight_chart.png
 ├── data/                   # Source data log exported from Google Sheets
 │   └── mendes_weight_log.csv
 ├── scripts/                # Automation code to export charts and upload to GitHub
