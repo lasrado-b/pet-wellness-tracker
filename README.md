@@ -16,11 +16,15 @@ A personal data-tracking project to monitor Mendes' weight loss and activity usi
 
 ---
 
-## Live Chart Example
+## Live Chart 
 
-![Mendes Weight Progress](https://raw.githubusercontent.com/lasrado-b/pet-wellness-tracker/main/charts/mendes_chart.png)
+### Weight Loss Progress
+![Mendes Weight Chart](https://raw.githubusercontent.com/lasrado-b/pet-wellness-tracker/main/charts/mendes_chart.png)
 
+---
 
+### Weight vs. Walk Time
+![Mendes Walk & Weight Chart](https://raw.githubusercontent.com/lasrado-b/pet-wellness-tracker/main/charts/mendes_walk_weight_chart.png)
 
 > *This chart is automatically updated weekly via Google Apps Script.*
 
